@@ -140,7 +140,7 @@ df = pd.read_csv("/content/train.csv")
 
 ---
 
-# 🔧 Data Preprocessing
+# Data Preprocessing
 
 The following preprocessing steps are applied:
 
