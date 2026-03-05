@@ -28,7 +28,7 @@ The notebook implements:
 ```
 Autism-Prediction-ML/
 │
-├── Autism_Preidiction_using_machine_Learning.ipynb   # Main project notebook
+├── Autism_Prediction_using_machine_Learning.ipynb   # Main project notebook
 ├── train.csv                                         # Dataset
 ├── best_model.pkl                                    # Saved trained model
 ├── encoders.pkl                                      # Saved label encoders
